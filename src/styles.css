@@ -1,0 +1,36 @@
+body {
+  max-width: 300px;
+}
+
+.container {
+  padding: 10px;
+  margin: 20px;
+  background: rgb(194, 194, 179);
+}
+
+.display {
+  max-width: 100%;
+  padding: 25px;
+  border: none;
+  border-radius: 10px;
+  text-align: end;
+}
+
+.keys {
+  height: 40px;
+  width: 50px;
+  border: none;
+  border-radius: 50%;
+  box-shadow: 2px 3px black;
+  font-size: 13px;
+  background: #f1f1f1;
+  cursor: pointer;
+}
+
+.key-enter {
+  height: 130px;
+  width: 50px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 2px 3px black;
+}
